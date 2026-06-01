@@ -9,3 +9,8 @@
   --branco: #ffffff;
   --fonte: "Montserrat";
 }
+body {
+    margin: 0;
+    padding: 0;
+    
+}
